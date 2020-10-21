@@ -18,8 +18,12 @@ CSV files download links:
 ***
 
 ## References
-[1] [Towards Data Science Article on t-tests](https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f)
+[1] Towards Data Science Article on t-tests, [www.towardsdatascience.com](https://towardsdatascience.cominferential-statistics-series-t-test-using-numpy-2718f8f9bf2f) 
 
-[2] [How to Conduct a One Sample T-Test in Python](https://www.statology.org/one-sample-t-test-python/)
+[2] How to Conduct a One Sample T-Test in Python, [www.statology.org](https://www.statology.org/one-sample-t-test-python/)
 
+[3] One Sample T-Test, [www.statisticssolutions.com](https://www.statisticssolutions.com/manova-analysis-one-sample-t-test/)
 
+[4] Two Sample T-Test, [www.itl.nist.gov](https://www.itl.nist.gov/div898/handbook/eda/section3/eda353.htm)
+
+[5] How to Conduct a Two Sample T-Test in Python, [www.statology.org](https://www.statology.org/two-sample-t-test-python/)
